@@ -1,0 +1,1 @@
+ ![Captura de pantalla de la configuración de Páginas en un repositorio GitHub. El menú para seleccionar una rama como origen de publicación, etiquetado como "Ninguno", aparece en naranja oscuro.](/assets/images/help/pages/publishing-source-drop-down.png)
